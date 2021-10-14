@@ -1,2 +1,1 @@
-# tutorial
-refnx tutorials
+# Tutorials for refnx
